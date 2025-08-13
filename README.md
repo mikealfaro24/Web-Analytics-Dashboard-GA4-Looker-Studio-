@@ -23,7 +23,7 @@ As part of my internship with Northeast Maglev, I created a custom analytics das
 
 ## 📂 Project Files
 
-- `dashboard_mockup.png` – A PDF version of the dashboard
+- `GA4_Dashboard_Watermark` – A PDF version of the dashboard
 - `README.md` – This file  
 
 ---
